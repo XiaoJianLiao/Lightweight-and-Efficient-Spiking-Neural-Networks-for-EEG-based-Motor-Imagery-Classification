@@ -8,10 +8,10 @@ scipy 1.13.1
 # File list
 Pipline.py:An example for constructing lightweight and efficient spiking neural networks for EEG-based motor imagery classification
 
-Train_ANN:Training LENet under ANN structure
+Train_ANN.py:Training LENet under ANN structure
 
-Tset_SNN:Convert trained LENet to SNN
+Tset_SNN.py:Convert trained LENet to SNN
 
-model_2a:LENet
+model_2a.py:LENet
 
 dataset:s07.mat
