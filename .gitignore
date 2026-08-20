@@ -1,0 +1,23 @@
+# Ignore all zip files
+*.zip
+MatlabToolkits/
+SNNpaper.pdf
+MI3DatasetPaper.pdf
+Datasets/MI3class1Limb/derivatives/sub-011/eeg/sub-011_task-motorimagery_eeg.mat
+Datasets/MI3class1Limb/sourcedata/sub-011/ses-03/eeg/sub-011_ses-03_task-motorimagery_eeg.cnt
+Datasets/MI3class1Limb/sourcedata/sub-011/ses-04/eeg/sub-011_ses-04_task-motorimagery_eeg.cnt
+Datasets/MI3class1Limb/sourcedata/sub-011/ses-05/eeg/sub-011_ses-05_task-motorimagery_eeg.cnt
+Datasets/MI3class1Limb/sourcedata/sub-011/ses-06/eeg/sub-011_ses-06_task-motorimagery_eeg.cnt
+Datasets/MI3class1Limb/sourcedata/sub-011/ses-07/eeg/sub-011_ses-07_task-motorimagery_eeg.cnt
+Datasets/MI3class1Limb/sourcedata/sub-011/ses-08/eeg/sub-011_ses-08_task-motorimagery_eeg.cnt
+Datasets/MI3class1Limb/sourcedata/sub-011/ses-09/eeg/sub-011_ses-09_task-motorimagery_eeg.cnt
+Datasets/MI3class1Limb/sourcedata/sub-011/ses-10/eeg/sub-011_ses-10_task-motorimagery_eeg.cnt
+Datasets/MI3class1Limb/sourcedata/sub-011/ses-11/eeg/sub-011_ses-11_task-motorimagery_eeg.cnt
+Datasets/MI3class1Limb/sourcedata/sub-011/ses-12/eeg/sub-011_ses-12_task-motorimagery_eeg.cnt
+Datasets/MI3class1Limb/sourcedata/sub-011/ses-13/eeg/sub-011_ses-13_task-motorimagery_eeg.cnt
+Datasets/MI3class1Limb/sourcedata/sub-011/ses-14/eeg/sub-011_ses-14_task-motorimagery_eeg.cnt
+Datasets/MI3class1Limb/sourcedata/sub-011/ses-15/eeg/sub-011_ses-15_task-motorimagery_eeg.cnt
+Datasets/MI3class1Limb/sourcedata/sub-011/ses-16/eeg/sub-011_ses-16_task-rest_eeg.cnt
+Datasets/MI3class1Limb/sourcedata/sub-011/ses-17/eeg/sub-011_ses-17_task-rest_eeg.cnt
+Datasets/MI3class1Limb/sourcedata/sub-011/ses-18/eeg/sub-011_ses-18_task-rest_eeg.cnt
+Datasets/MI3class1Limb/sourcedata/sub-011/ses-19/eeg/sub-011_ses-19_task-rest_eeg.cnt

@@ -1,0 +1,30 @@
+{
+  "onset": {
+    "Description": "Event onset",
+    "Units": "millisecond"
+  },
+  "duration": {
+    "Description": "Event duration",
+    "Units": "millisecond"
+  },
+  "trial_type": {
+    "Description": "Type of event ",
+    "Levels": {
+      "hand": "Imagining the movement of the right hand",
+      "elbow": "Imagining the movement of the right elbow"
+    }
+  },
+  "response_time": {
+    "Description": "Response time column not use for this data"
+  },
+  "sample": {
+    "Description": "Event sample starting at 0 (Matlab convention starting at 1)"
+  },
+  "value": {
+    "Description": "Value of event (numerical)",
+    "Levels": {
+      "1": "Imagining the movement of the right hand",
+      "2": "Imagining the movement of the right elbow"
+    }
+  }
+}

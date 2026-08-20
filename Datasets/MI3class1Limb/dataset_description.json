@@ -1,0 +1,9 @@
+{
+  "Name": "Motor Imagery Study",
+  "Authors": ["Xuelin Ma", "Shuang Qiu", "Huiguang He"],
+  "ReferencesAndLinks": [
+    "https://ieeexplore.ieee.org/document/8896928"
+  ],
+  "License": "CC0",
+  "BIDSVersion": "1.1.1"
+}

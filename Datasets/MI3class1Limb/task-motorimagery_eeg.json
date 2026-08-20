@@ -1,0 +1,15 @@
+    {
+    "TaskName": "Motor Imagery",
+    "TaskDescription": "The subjects sat in a comfortable chair at 1-meter distance in front of a computer screen. Each trial (8s) began with a white circle at the center of the monitor for 2s. After that, a red circle appeared as a cue for 1s to remind the subjects of the following target. The target indication (“Hand” or “Elbow”) was presented on the screen for 4s. We adopted the kinesthetic, but not visual, motor imagery paradigm in our research. The subjects were asked to concentrate on performing the indicated motor imagery task while avoiding any motion during imagination. After the imagination, “Break” was presented for 1s before next trial. Data for each subject were collected on the same day using the same cap. The experiments contained 7 sessions, involving 5 sessions consisting of 40 trials (20 trials per movement imagination) and 2 sessions consisting of 50 trials each for resting state. The sequence of two MI tasks was randomized. There were breaks of 5 to 10 minutes between sessions. ",
+    "SamplingFrequency": 1000,
+    "SoftwareFilters": "n/a",
+    "EEGChannelCount": 63,
+    "EOGChannelCount": 0,
+    "ECGChannelCount": 0,
+    "EMGChannelCount": 2,
+    "EEGReference": "unipolar, placed on M1",
+    "EEGGround": "placed on Afz",
+    "PowerLineFrequency": 50,
+    "EEGPlacementScheme": "10-20 system",
+    "RecordingType": "continuous"
+}
